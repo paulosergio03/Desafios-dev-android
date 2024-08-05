@@ -1,0 +1,24 @@
+Comece na entrada à esquerda.
+Mova-se para a direita.
+Na primeira oportunidade, vá para cima.
+Continue para a direita.
+Quando necessário, vá para cima novamente para evitar um beco sem saída.
+Vire à esquerda e, imediatamente, vá para baixo.
+Continue para a esquerda.
+Vá para baixo novamente para evitar outro beco sem saída.
+Vire à esquerda novamente.
+Mova-se para cima.
+Faça uma curva rápida à direita e, em seguida, vá para cima quando encontrar uma parede.
+Continue para a direita até encontrar outra parede que o obriga a ir para cima.
+Vire à esquerda no topo e, imediatamente, vá para baixo.
+Continue para a esquerda, mas vá para baixo assim que possível para evitar um beco sem saída.
+Vire à esquerda novamente.
+Mova-se para cima.
+Faça uma curva rápida à direita e, em seguida, vá para cima novamente.
+Agora, vá para a direita até encontrar uma parede que o obriga a ir para cima.
+Vire à esquerda no topo e, em seguida, vá para baixo.
+Vire à esquerda novamente, mas continue descendo na primeira oportunidade.
+Quando encontrar outra parede, vá para a direita.
+Mova-se para cima na próxima oportunidade.
+Faça duas curvas à direita consecutivas (com um caminho muito curto para cima entre elas) até chegar a uma área aberta.
+A partir daqui, vá para cima o máximo possível antes de fazer uma última curva à direita, que leva diretamente à saída deste labirinto na parte superior da imagem.
